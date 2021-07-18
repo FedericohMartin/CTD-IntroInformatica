@@ -1,0 +1,16 @@
+1)
+Hicimos un ping a la pagina de Digital House.
+Nos cambiamos a modo Root/Su
+Instalamos git
+Comprobamos la version de Git
+Clonamos el repositorio de la camada
+hicimos un archivo blabla.txt
+
+2)
+sirve para el manejo de paquetes e instalacion de los mismos
+
+3)
+Es el modo Super Usuario y permite tener los mayores privilegios del sistema
+
+4)
+No

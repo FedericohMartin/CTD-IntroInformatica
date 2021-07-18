@@ -1,0 +1,12 @@
+Cableado:
+- Router / Modem
+- Computadora x2
+
+Wifi:
+- Impresora
+- Smart Tv
+- Notebook
+- Celulares x5
+
+
+5) Se necesitaria un repetidor en el primer piso para que la señal llegue bien en esa planta.
